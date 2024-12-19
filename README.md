@@ -1,4 +1,4 @@
-# here is the screenshot of our website
+# FinED
 
 <img width="1695" alt="Screenshot 2024-12-07 at 8 42 05 AM" src="https://github.com/user-attachments/assets/aa4236f8-3b1c-461a-b682-8b63089e35d3">
 
